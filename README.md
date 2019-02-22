@@ -1,5 +1,7 @@
-# Rice-grain-type-classifier
+## Rice-grain-type-classifier
 CLASSIFICATION OF RICE GRAINS USING CONVOLUTION NEURAL NETWORK (KERAS FRAMEWORK)
 
 DATASET IS AVAILABLE AT
 https://drive.google.com/open?id=1-C9C2StN4QfJuF4ea2wLN7CKPGLW1Wuj
+#
+This project classifies wheather a rice grain is PONNI RICE, BASMATI RICE OR SONA MASOORI RICE 
